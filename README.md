@@ -15,3 +15,8 @@ Lab05: Demonstrate `Inheritance`, `Polymorphism`, `Virtual Function` `Abstract C
 Lab06: Demonstrate `Files` and `Exceptions`
 
 Lab07: Demonstrate `Templates` with Stack and Queue
+
+## Java Lab Assignment
+Lab00: Install Java Compiler and test with simple Java code.
+
+Lab01: Learn native type and casting
