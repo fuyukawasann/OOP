@@ -1,4 +1,4 @@
-# Object Oriented Programming Lab Projects Archieve
+# Object Oriented Programming Lab Projects Archive
 ## CPP Lab Assignemnt
 Lab00: Install C++ compiler and test with simple C++ code.
 
