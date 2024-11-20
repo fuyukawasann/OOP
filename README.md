@@ -20,3 +20,5 @@ Lab07: Demonstrate `Templates` with Stack and Queue
 Lab00: Install Java Compiler and test with simple Java code.
 
 Lab01: Learn native type and casting
+
+Lab02: Learn String, StringBuilder, Array and Exceptions. (+ Concept of 'Class')
