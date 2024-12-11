@@ -24,3 +24,5 @@ Lab01: Learn native type and casting
 Lab02: Learn String, StringBuilder, Array and Exceptions. (+ Concept of 'Class')
 
 Lab03: Implement GUI with Swing
+
+Lab04: Advanced GUI
